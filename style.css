@@ -330,6 +330,11 @@ nav ul li:nth-child(2) {
     /* padding: 2rem 0; */
 }
 
+.header-text i {
+    font-size: 2rem;
+    padding: 5px 0;
+}
+
 
 /* ============================================================================== */
 /* =============================ARTICLE SECTION================================== */
@@ -620,4 +625,28 @@ textarea {
         display: none;
     }
 
+    .header-text h1 {
+        font-size: 2rem;
+    }
+
+    .header-text p {
+        font-size: .75rem;
+    }
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size:  .85rem ;
+  }
+  .single-article h3 {
+      font-size: 1.85rem
+  }
+
+  .single-article p {
+      font-size: .85rem;
+  }
+
+
 }
+
