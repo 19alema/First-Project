@@ -1,9 +1,9 @@
 
 // Selecting the html elemnts
 
-const menu = document.querySelector('.menu-icon');
-const close = document.querySelector('.span');
-const nav = document.querySelector('.nav');
+const menu = document.querySelector('.menu-btn');
+const close = document.querySelector('.close-btn');
+const nav = document.querySelector('.navbar');
 
 // Applying javascript function
 
